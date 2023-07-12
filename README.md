@@ -1,4 +1,4 @@
-# shopping_app
+# e_commerce_cart
 
 A new Flutter project.
 

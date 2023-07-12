@@ -1,6 +1,5 @@
-name: shopping_app
+name: e_commerce_cart
 description: A new Flutter project.
-
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
@@ -10,26 +9,24 @@ version: 1.0.0+1
 environment:
   sdk: '>=2.18.0 <3.0.0'
 
-
 dependencies:
   flutter:
     sdk: flutter
 
-
   cupertino_icons: ^1.0.2
-  get: ^4.5.1
+  get: ^4.6.5
+  http: ^0.13.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
- 
   flutter_lints: ^2.0.0
 
 
 flutter:
 
- 
+  
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:

@@ -1,6 +1,6 @@
 {
-    "name": "shopping_app",
-    "short_name": "shopping_app",
+    "name": "e_commerce_cart",
+    "short_name": "e_commerce_cart",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
